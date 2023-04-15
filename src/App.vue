@@ -31,4 +31,33 @@ html, body, #map, #app {
   margin: 0;
   padding: 0;
 }
+
+.ol-control button{
+  color: #8A1946;
+  background-color: #f9f6ed;
+}
+
+.ol-control button:hover{
+  color: #f9f6ed;
+  background-color: #8A1946;
+}
+
+.ol-side-panel-tabs, .ol-side-panel-tabs > button, .ol-side-panel-tabs > button.active {
+  color: #8A1946;
+  background-color: #f9f6ed;
+}
+
+.ol-side-panel-tabs > button:hover {
+  color:#f9f6ed;
+  background-color: #8A1946;
+}
+
+.ol-side-panel-content {
+  background-color:#f9f6ed ;
+}
+
+.ol-side-panel-close:hover {
+  color: #8A1946;
+}
+
 </style>
