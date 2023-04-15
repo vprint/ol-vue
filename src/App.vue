@@ -32,4 +32,14 @@ html, body, #map, #app {
   padding: 0;
 }
 
+.ol-control button{
+  color: #8A1946;
+  background-color: #f9f6ed;
+}
+
+.ol-control button:hover{
+  color: #f9f6ed;
+  background-color: #8A1946;
+}
+
 </style>
